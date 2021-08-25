@@ -4,8 +4,9 @@ TODO LIST with MERN
 
 -Requeriments
 * NodeJS v16.7.0
-* Install React 17.2.0
-* Install MongoDB 5.0
+* Express
+* React 17.2.0
+* MongoDB 5.0
 
 -Installation
 
